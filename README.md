@@ -86,3 +86,9 @@ Hãy gửi phản hồi cho Moon Studio tại:
 © 2024 Moon Studio. Tất cả các quyền được bảo lưu.
 
 **Phiên bản tài liệu:** 0.9.2 (Beta)
+
+## 📥 Download
+
+[Download WiFi Checker Beta]()
+
+> Beta version for Android.
