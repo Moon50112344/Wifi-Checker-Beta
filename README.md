@@ -12,6 +12,12 @@ Một số tính năng có thể chưa hoàn thiện hoặc gặp lỗi trong qu
 
 WiFi Checker được thiết kế để giúp người dùng phổ thông lẫn kỹ thuật viên có cái nhìn chi tiết về các thiết bị đang kết nối trong mạng, kiểm tra độ trễ và phát hiện các bất thường về kết nối.
 
+<div style="display: inline-block; border: 1px solid #30363d; padding: 8px 14px; border-radius: 6px;">
+  <a href="https://raw.githubusercontent.com/Moon50112344/Wifi-Checker-Beta/main/wifi-checker-beta-v1.apk">
+    Download WiFi Checker Beta
+  </a>
+</div>
+
 ## Màn hình chính
 
 Giao diện chính cung cấp cái nhìn tổng quan về trạng thái mạng hiện tại của thiết bị.
@@ -87,8 +93,3 @@ Hãy gửi phản hồi cho Moon Studio tại:
 
 **Phiên bản tài liệu:** 0.9.2 (Beta)
 
-## 📥 Download
-
-[Download WiFi Checker Beta]()
-
-> Beta version for Android.
